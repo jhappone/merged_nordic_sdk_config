@@ -27,7 +27,7 @@ if ($uncheckAll != null)
 		$uncheckAll = true;
 }
 else
-	$uncheckAll = true;
+	$uncheckAll = null;
 
 $sdkFile = fopen($initialConfigFileName, "r");
 
