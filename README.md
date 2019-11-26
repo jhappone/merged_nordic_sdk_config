@@ -4,4 +4,4 @@ This repo contains a sdk_config.h for Nordic Semiconducor SDK. File is merged fr
 
 All the checkmarks are disabled as default.
 
-Merger script is made with PHP (no python, sorry) and can be found in the merge_script folder.
+Merger script is made with PHP (no python, sorry).
